@@ -6,3 +6,5 @@ test merge with no-ff
 
 
 aaa
+
+bbb
